@@ -10,14 +10,6 @@ The paper investigates alternative differential labeling via the Likelihood Rati
 
 ---
 
-## 📄 Paper (Preprint)
-
-The full paper is included here:
-
-📎 **[OptionsPricingResearch.pdf](paper/OptionsPricingResearch.pdf)**
-
----
-
 ## 🚀 How to Run Experiments
 
 ### 🔹 Option 1 — Using Google Colab *(recommended for fast execution & GPU support)*
